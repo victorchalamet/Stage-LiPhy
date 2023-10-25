@@ -1,0 +1,24 @@
+# AXES
+# axes.titlesize: 50
+axes.labelsize: 55
+
+# TICKS
+xtick.major.size: 25
+xtick.minor.size: 15
+xtick.labelsize: 30
+xtick.direction: in
+
+ytick.major.size: 25
+ytick.minor.size: 15
+ytick.labelsize: 30
+ytick.direction: in
+
+#LEGEND
+legend.fontsize: 12
+
+#FIGURE
+figure.figsize: 19.2,10.8
+# figure.titlesize: 35
+
+# LINES
+lines.linewidth: 3.0
